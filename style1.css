@@ -1,0 +1,23 @@
+.container{
+    background-color: burlywood;
+    border: 10px solid black;
+    box-shadow: color(rec2020 red green blue);
+    align-items: center;
+
+}
+h1{
+    color: black;
+    background-color: rgb(222, 144, 42);
+    border: 5px solid black;
+    
+
+}
+.box img{
+    border: 5px solid black;
+    border-radius: 50%;
+
+
+}
+img:hover{
+    transform: scale(1,2);
+}
